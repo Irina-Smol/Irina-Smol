@@ -1,5 +1,6 @@
-<img src="http://url/image.png" height="60" width="60" >
+<img src="https://miro.medium.com/max/1000/1*f2a4MUxIC5tJVwNnPn6hyQ.jpeg" >
 ____
+
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
