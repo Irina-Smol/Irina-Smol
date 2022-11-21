@@ -1,4 +1,4 @@
-<img src="https://images.squarespace-cdn.com/content/v1/60b57c9a8842200ca6d8a10d/1622644277477-7G0Z7UUA98UCZG81SQJ4/ab1-web.jpg" >
+<img src="https://linkme.ufanet.ru/images/6ba2a69a60561c8c7c5fb50876916600.png" >
 
 ____
 
