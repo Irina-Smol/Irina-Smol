@@ -46,4 +46,6 @@ ____
 
 - Small Machine Learning projects - https://github.com/Irina-Smol/MachineLearning/tree/main/Projects
 
+- UNDERWATER ADVENTURE (игра, написанная на Pygame) - https://github.com/Irina-Smol/game
+
 
