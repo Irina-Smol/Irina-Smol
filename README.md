@@ -2,7 +2,7 @@
 
 ____
 
-### Languages and Tools
+## Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -26,5 +26,23 @@ ____
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ____
 
-# My projects
+## My projects
+
+- Movie rating (Большой проект по обработке и визуализации данных) - https://github.com/Irina-Smol/Movie_ratings_project
+
+- Aircraft_project_DATABASE (Работа с БД авиаперелетов) - https://github.com/Irina-Smol/Aircraft_project_DATABASE
+
+- Wine Dataset Analysis (Streamlit) - https://github.com/Irina-Smol/Streamlit_projects/tree/main/Wine_dashboard
+
+- Income and expense tracker (Калькулятор доходов и расходов) - https://github.com/Irina-Smol/Streamlit_projects/tree/main/Income_and_expense_tracker
+
+- Predict Salary Django ML (Реализация модели машинного обучения по предсказанию заработной платы в зависимости от опыта работы) - https://github.com/Irina-Smol/Predict_Salary-Django-ML-
+
+- Classification-MNIST (Классификация изображений на примере датасета MNIST) - https://github.com/Irina-Smol/Classification-MNIST
+
+- Diagnosing_breast_cancer (Предсказание рака) - https://github.com/Irina-Smol/Diagnosing_breast_cancer
+
+- Блог об известных женщинах (Django) - https://github.com/Irina-Smol/djsite2
+
+
 
