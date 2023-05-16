@@ -44,5 +44,6 @@ ____
 
 - Блог об известных женщинах (Django) - https://github.com/Irina-Smol/djsite2
 
+- Small Machine Learning projects - https://github.com/Irina-Smol/MachineLearning/tree/main/Projects
 
 
