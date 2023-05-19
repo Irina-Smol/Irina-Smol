@@ -1,3 +1,9 @@
+<div id="header" align="center">
+<h1>
+  hey
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 <img src="https://linkme.ufanet.ru/images/6ba2a69a60561c8c7c5fb50876916600.png" >
 
 
@@ -53,4 +59,10 @@ ____
 
 - UNDERWATER ADVENTURE (игра, написанная на Pygame) - https://github.com/Irina-Smol/game
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
