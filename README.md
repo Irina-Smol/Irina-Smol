@@ -1,5 +1,8 @@
 <img src="https://linkme.ufanet.ru/images/6ba2a69a60561c8c7c5fb50876916600.png" >
 
+
+ #       Data is one of the most powerful tools for achieving goals
+
 ____
 
 ## Languages and Tools
