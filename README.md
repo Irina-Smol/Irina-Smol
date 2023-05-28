@@ -45,6 +45,8 @@ ____
 
 - Aircraft_project_DATABASE (Работа с БД авиаперелетов) - https://github.com/Irina-Smol/Aircraft_project_DATABASE
 
+- Currency_conventer (Конвертер валют) - https://github.com/Irina-Smol/Currency_conventer
+
 - Wine Dataset Analysis (Streamlit) - https://github.com/Irina-Smol/Streamlit_projects/tree/main/Wine_dashboard
 
 - Income and expense tracker (Калькулятор доходов и расходов) - https://github.com/Irina-Smol/Streamlit_projects/tree/main/Income_and_expense_tracker
