@@ -67,6 +67,27 @@ ____
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+## My courses
+
+- ML_in_Python-course- (Машинное обучение) - https://github.com/Irina-Smol/ML_in_Python-course
+
+- Data_Analyst_course_2023 (Аналитик данных, 256ч) - https://github.com/Irina-Smol/Data_Analyst_course_2023
+
+- Data_Science_from_Scratch (Изучение по книгам) - https://github.com/Irina-Smol/Data_Science_from_Scratch
+
+- SQL_course (SQL) - https://github.com/Irina-Smol/SQL_course
+
+- Yandex_DataLens_1C_Analytics (Визуализация данных) - https://github.com/Irina-Smol/Yandex_DataLens_1C_Analytics
+
+- Network_engineer_course_2023 (Сетевой инженер, 256ч) - https://github.com/Irina-Smol/Network_engineer_course_2023
+
+- ComputerSystems-ITSO-2-course- (Структура организации) - https://github.com/Irina-Smol/ComputerSystems-ITSO-2-course-
+
+- Aurora_course (Разработка под "Аврора") - https://github.com/Irina-Smol/Aurora_course
+
+- 2023_DLS_base (Deep Learning School) - https://github.com/Irina-Smol/2023_DLS_base
+
+- 2023_DLS_pro (Deep Learning School) - https://github.com/Irina-Smol/2023_DLS_pro
 
 ### :fire: My Stats 
 
