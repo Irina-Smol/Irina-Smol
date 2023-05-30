@@ -85,7 +85,7 @@ ____
 
 - Aurora_course (Разработка под "Аврора") - https://github.com/Irina-Smol/Aurora_course
 
-- 2023_DLS_base (Deep Learning School) - https://github.com/Irina-Smol/2023_DLS_base
+- 2023_DLS_base (Deep Learning School) - 
 
 
 
