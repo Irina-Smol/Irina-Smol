@@ -41,6 +41,8 @@ ____
 
 - SQL Murder Mystery (Разгадка тайны убийства) - https://github.com/Irina-Smol/SQL_Murder_Mystery/tree/main
 
+- База данных для организации работы аптеки (SQL) - https://github.com/Irina-Smol/Pharmacy-MySQL/tree/main
+
 - Movie rating (Большой проект по обработке и визуализации данных) - https://github.com/Irina-Smol/Movie_ratings_project
 
 - Aircraft_project_DATABASE (Работа с БД авиаперелетов) - https://github.com/Irina-Smol/Aircraft_project_DATABASE
