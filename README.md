@@ -39,7 +39,7 @@ ____
 
 ## My projects
 
-- SQL Murder Mystery (Разгадка тайны убийства) - https://github.com/Irina-Smol/SQL_Murder_Mystery/tree/main
+- SQL Murder Mystery (Разгадка тайны убийства - https://github.com/Irina-Smol/SQL_Murder_Mystery/tree/main
 
 - ДЕТЕКТИВ-ИГРА «НАЙДИ ПРЕСТУПНИКА НА ВЕЧЕРИНКЕ» - https://github.com/Irina-Smol/SQL_Play_Detective
 
