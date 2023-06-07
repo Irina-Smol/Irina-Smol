@@ -41,6 +41,8 @@ ____
 
 - SQL Murder Mystery (Разгадка тайны убийства) - https://github.com/Irina-Smol/SQL_Murder_Mystery/tree/main
 
+- ДЕТЕКТИВ-ИГРА «НАЙДИ ПРЕСТУПНИКА НА ВЕЧЕРИНКЕ» - https://github.com/Irina-Smol/SQL_Play_Detective
+
 - База данных для организации работы аптеки (SQL) - https://github.com/Irina-Smol/Pharmacy-MySQL/tree/main
 
 - Movie rating (Большой проект по обработке и визуализации данных) - https://github.com/Irina-Smol/Movie_ratings_project
