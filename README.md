@@ -41,11 +41,11 @@ ____
 
 - SQL Murder Mystery (Разгадка тайны убийства) - https://github.com/Irina-Smol/SQL_Murder_Mystery/tree/main
 
-- ДЕТЕКТИВ-ИГРА «НАЙДИ ПРЕСТУПНИКА НА ВЕЧЕРИНКЕ» - https://github.com/Irina-Smol/SQL_Play_Detective
+- SQL_Play_Detective (ДЕТЕКТИВ-ИГРА «НАЙДИ ПРЕСТУПНИКА НА ВЕЧЕРИНКЕ») - https://github.com/Irina-Smol/SQL_Play_Detective
 
-- База данных для организации работы аптеки (SQL) - https://github.com/Irina-Smol/Pharmacy-MySQL/tree/main
+-  Pharmacy-MySQL (База данных для организации работы аптеки) SQL - https://github.com/Irina-Smol/Pharmacy-MySQL/tree/main
 
-- Movie rating (Большой проект по обработке и визуализации данных) - https://github.com/Irina-Smol/Movie_ratings_project
+- Movie rating project (Большой проект по обработке и визуализации данных) - https://github.com/Irina-Smol/Movie_ratings_project
 
 - Aircraft_project_DATABASE (Работа с БД авиаперелетов) - https://github.com/Irina-Smol/Aircraft_project_DATABASE
 
@@ -61,7 +61,7 @@ ____
 
 - Diagnosing_breast_cancer (Предсказание рака) - https://github.com/Irina-Smol/Diagnosing_breast_cancer
 
-- Блог об известных женщинах (Django) - https://github.com/Irina-Smol/djsite2
+- Blog about famous women on Django (Блог об известных женщинах на Django) - https://github.com/Irina-Smol/djsite2
 
 - Small Machine Learning projects - https://github.com/Irina-Smol/MachineLearning/tree/main/Projects
 
