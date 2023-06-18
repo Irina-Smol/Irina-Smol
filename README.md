@@ -6,7 +6,7 @@
 
 <div id="header" align="center">
   <h1>
-    Data is one of the most powerful tools for achieving goals
+    Data is one of the most powerful tools for achieving goal
     </h1>
 </div>
  
