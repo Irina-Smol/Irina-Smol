@@ -87,7 +87,7 @@ ____
 
 - Network_engineer_course_2023 (Сетевой инженер, 256ч) - https://github.com/Irina-Smol/Network_engineer_course_2023
 
-- ComputerSystems-ITSO-2-course- (Информационно-технологическая структура организации) - https://github.com/Irina-Smol/ComputerSystems-ITSO-2-course-
+- ComputerSystems-ITSO-2-course- (Информационно-технологическая инфраструктура организации) - https://github.com/Irina-Smol/ComputerSystems-ITSO-2-course-
 
 - Aurora_course (Разработка под "Аврора") - https://github.com/Irina-Smol/Aurora_course
 
