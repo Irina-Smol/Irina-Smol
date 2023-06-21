@@ -39,6 +39,8 @@ ____
 
 ## My projects
 
+- Экзаменационная работа по автоматизации бизнес-процесса "Заказ товаров" (UML models) - https://github.com/Irina-Smol/UML_model
+
 - Курсовой проект "Разработка UML модели информационной системы" (Course project) - https://github.com/Irina-Smol/Development_of_the_UML_model
 
 - SQL Murder Mystery (Разгадка тайны убийства) - https://github.com/Irina-Smol/SQL_Murder_Mystery/tree/main
