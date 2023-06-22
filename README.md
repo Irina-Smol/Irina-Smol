@@ -79,7 +79,7 @@ ____
 
 - ML_in_Python-course- (Машинное обучение) - https://github.com/Irina-Smol/ML_in_Python-course
 
-- Data_Analyst_course_2023 (Аналитик данных, 256ч) - https://github.com/Irina-Smol/Data_Analyst_course_2023
+- Data_Analyst_course_2023 (Аналитик больших данных, 256ч) - https://github.com/Irina-Smol/Data_Analyst_course_2023
 
 - Data_Science_from_Scratch (Изучение по книгам) - https://github.com/Irina-Smol/Data_Science_from_Scratch
 
