@@ -38,7 +38,7 @@ ____
 
 ## My projects
 
-- Simulation of the orbits of different planets around the Sun (моделирование орбит разных планет вокруг Солнца) - https://github.com/Irina-Smol/Planet-Simulation
+- Simulation of the orbits of different planets (моделирование орбит разных планет вокруг Солнца) - https://github.com/Irina-Smol/Planet-Simulation
 
 - Экзаменационная работа по автоматизации бизнес-процесса "Заказ товаров" (UML models) - https://github.com/Irina-Smol/UML_model
 
