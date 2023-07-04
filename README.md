@@ -38,6 +38,8 @@ ____
 
 ## My projects
 
+- Game of thrones episodes analysis (Анализ сезонов и серий сериала Игра Престолов) - https://github.com/Irina-Smol/MachineLearning/tree/main/EDA/Game_of_thrones_episodes_analysis
+
 - Simulation of the orbits of different planets (моделирование орбит разных планет вокруг Солнца) - https://github.com/Irina-Smol/Planet-Simulation
 
 - Экзаменационная работа по автоматизации бизнес-процесса "Заказ товаров" (UML models) - https://github.com/Irina-Smol/UML_model
