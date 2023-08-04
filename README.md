@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+
 <div id="header" align="center">
   <h1>
     Data is one of the most powerful tools for achieving goals
