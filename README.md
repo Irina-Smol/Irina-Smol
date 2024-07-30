@@ -86,6 +86,8 @@ ____
 ## My courses
 
 - ML_in_Python-course- (Машинное обучение) - https://github.com/Irina-Smol/ML_in_Python-course
+ 
+- Data_Engineer (Инженер данных, 256ч) - https://github.com/Irina-Smol/Data_Engineer
 
 - Data_Analyst_course_2023 (Аналитик больших данных, 256ч) - https://github.com/Irina-Smol/Data_Analyst_course_2023
 
